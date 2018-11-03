@@ -37,6 +37,7 @@
 !/sanitycheck/
 !/smartattributes/
 !/sqlauth/
+!/sqlauthbcrypt/
 !/statistics/
 
 */enable
